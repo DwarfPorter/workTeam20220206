@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">workTeam20220206</string>
     <string name="hello_team">Hello Team!</string>
+    <string name="button">Button</string>
 </resources>
